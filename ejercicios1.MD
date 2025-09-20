@@ -1,8 +1,20 @@
-# Propiedades de la Aritmética
 
-> **Instrucción:** Lean cada caso, identifiquen la **propiedad** aplicada y resuelvan la operación.  
+# Instrucciones para la Actividad en Equipo
+
+1. Lean cuidadosamente **cada caso práctico** y determinen:  
+   - Qué **propiedad matemática** se aplica en cada ejercicio.  
+   - El **procedimiento completo** para resolver la operación.  
+
+2. Organicen sus respuestas en un solo documento (puede ser en **Word o PDF**).  
+
+3. El documento debe incluir en la portada:  
+   - Nombres completos y apellidos de los **4 integrantes del equipo**  
+
+4. Un solo integrante del equipo será responsable de **subir el archivo final** mediante la mensajería de la plataforma **Blackboard**.  
 
 ---
+
+# EJERCICIOS
 
 ### 1. En un colegio, un grupo de alumnos cuenta 24 lápices rojos y 17 azules, mientras que otro grupo los cuenta al revés: 17 azules y 24 rojos. Ambos grupos obtienen el mismo total de lápices.  
 
