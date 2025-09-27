@@ -11,7 +11,7 @@ u + v
   
 
 
-## 2. Suma de vectores en 4 dimensiones
+## 2. Suma de vectores 
  
 u =  [1, 2, 0, -1 ],   v =  [3, -2, 4, 5 ]
   
