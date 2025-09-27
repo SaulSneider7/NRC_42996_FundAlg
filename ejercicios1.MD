@@ -1,79 +1,84 @@
+# ✏️ Ejercicios de Operaciones Vectoriales
 
-# Instrucciones para la Actividad en Equipo
+## 1. Suma de vectores
+Dados los vectores:  
 
-1. Lean cuidadosamente **cada caso práctico** y determinen:  
-   - Qué **propiedad matemática** se aplica en cada ejercicio.  
-   - El **procedimiento completo** para resolver la operación.  
+u =  [2, -1, 3 ],  v =  [4, 0, -2 ]
+  
+Calcular:  
+ 
+u + v
+  
 
-2. Organicen sus respuestas en un solo documento (puede ser en **Word o PDF**).  
 
-3. El documento debe incluir en la portada:  
-   - Nombres completos y apellidos de los **4 integrantes del equipo**  
+## 2. Suma de vectores en 4 dimensiones
+ 
+u =  [1, 2, 0, -1 ],   v =  [3, -2, 4, 5 ]
+  
+Calcular:  
+ 
+u + v
+  
 
-4. Un solo integrante del equipo será responsable de **subir el archivo final** mediante la mensajería de la plataforma **Blackboard**.  
 
----
+## 3. Resta de vectores
+ 
+u =  [7, -3, 2 ],   v =  [5, 4, -1 ]
+  
+Calcular:  
+ 
+u - v
+  
 
-# EJERCICIOS
 
-### 1. En un colegio, un grupo de alumnos cuenta 24 lápices rojos y 17 azules, mientras que otro grupo los cuenta al revés: 17 azules y 24 rojos. Ambos grupos obtienen el mismo total de lápices.  
+## 4. Resta con valores negativos
+ 
+u =  [-2, 6, 0 ],   v =  [4, -1, 3 ]
+  
+Calcular:  
+ 
+u - v
+  
 
-¿Qué propiedad se usa? Representen la suma como una operación matemática.  
 
----
-
-### 2. Un cocinero prepara jugo mezclando primero (3 vasos de agua + 5 de naranja) y luego le agrega 2 de limón.  Otro cocinero decide primero mezclar (5 de naranja + 2 de limón) y después agregar el agua. El resultado es el mismo.  
-
-¿Qué propiedad se observa? Escríbanlo en forma de operación.  
-
----
-
-### 3. Un maestro compra 8 cajas. En cada caja hay (3 marcadores + 4 lápices). Él lo calcula como:  
-
-8 x (3 + 4) 
-
-Su ayudante lo hace así:  
-
-(8 x 3) + (8 x 4) 
-
-Identifiquen la propiedad y resuelvan las dos formas.  
-
----
-
-### 4. Un jugador de videojuegos suma 1 punto y en otro nivel suma 0 puntos.  Al final tiene la misma cantidad de puntos que tenía antes de jugar.  Otro ejemplo: si multiplica sus puntos por 1, no cambia.  
-
-¿Qué propiedad es? Den otro ejemplo con un número diferente.  
-
----
-
-### 5. Un estudiante debía 20 soles y justo recibió 20 soles. Al pagar la deuda, se queda con 0.  Otro ejemplo: un número multiplicado por su recíproco da 1.  
-
-¿Qué propiedad se aplica en cada caso?  
-
----
-
-### 6. Una niña suma dos fracciones: 2/3 + 1/4. El resultado también es una fracción.  Otro niño multiplica dos números negativos: (-5) x (-2)  El resultado también es un número entero.  
-
-¿Qué propiedad se está mostrando?  
+## 5. Multiplicación por escalar
+ 
+u =  [3, -2, 5 ],   k = 4
+  
+Calcular:  
+ 
+k x u
+  
 
 ---
 
-### 7. En un examen, un profesor escribe:  
+## 6. Multiplicación por escalar 
 
-(6 + 4) x 3 = (6 + 3) + (4 x 3)
-
-Los alumnos notan que primero se aplica una propiedad y después otra.  
-
-¿Cuáles son las propiedades que aparecen en esta igualdad?  
+u =  [-1, 7, 2 ],   k = -3
+  
+Calcular:  
+ 
+k x u
+  
 
 ---
 
-### 8. Una profesora plantea el siguiente cálculo de dos maneras distintas:  
+## 7. Producto escalar  
+ 
+u =  [1, 2, 3 ],   v =  [4, -1, 2 ]
+  
+Calcular:  
+ 
+u x v
+  
 
-(10 + 15) + (20 + 5)
+---
 
-10 + (15 + 20) + 5
-
-Ambos caminos llegan al mismo resultado.  
-
-¿Qué propiedades aparecen en este caso? Expliquen el razonamiento. 
+## 8. Producto escalar
+ 
+u =  [2, 0, -1, 3 ],   v =  [1, -2, 4, 2 ]
+  
+Calcular:  
+ 
+u x v
+  
